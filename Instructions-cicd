@@ -1,0 +1,32 @@
+it is commit based cicd project
+
+step-1
+create jenkins server and pipeline job in it
+
+step-2
+Integrating git repository to jenkins by Webhook
+
+step-3
+Integrating sonarqube to Jenkins for quality check
+
+Step-4
+Building artifact by using maven plugins in jenkins
+
+By using Jenkinsfile in github repo
+
+step-5
+Integrating Ansible to Jenkins for Deploying your application in kubernets
+
+
+step-6
+Establishing password less authentication between ansible server and kubernetes master for deploying application.
+
+By using ansible.yaml file in github repo
+
+By using deployment.yaml file in github repo
+
+step-7
+Now if have done done any commit in repo then your application will also change according to commit automatically
+
+
+Done......
